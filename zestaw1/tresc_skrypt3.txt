@@ -1,0 +1,10 @@
+#4) Proszę otworzyć plik survey_results_schema.csv. Czytając opisy kolumn/pytań w ankiecie proszę wybrać przynajmniej dwie kolumny,
+# które można potraktować jako dane ilościowe. UWAGA: nie mogą to być kolumny YearsCode ani Age1stCode
+# (muszą być inne niż w przykładzie).
+
+#Należy przygotować dane z pliku survey_results_public.csv tak, abyśmy mieli dwie kolumny danych liczbowych (typ int64 np.).
+
+#5) Dane z 4. punktu wykorzystujemy do zrobienia wykresu. Korzystamy przy tym z biblioteki matplotlib.
+# Ponownie wybieramy sobie jakąś kolumnę/punkt w ankciecie - tym razem może być to kolumna z danymi jakościowymi.
+# Ze względu na tę kolumnę dzielimy dane (np. na grupę kobiet i mężczyzn) i tworzymy podobne wykresy,
+# jak poprzednio, ale oddzielny dla każdej grupy.

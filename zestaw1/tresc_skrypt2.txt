@@ -1,0 +1,5 @@
+#3) Napisać skrypt, który wczytuje plik train.tsv oraz plik description.csv.
+# Do tabeli danych wczytanych z pliku train.tsv należy dodać kolumnę, w której znajdzie się opis zależny od piętra,
+# na którym znajduje się mieszkanie, wg schematu danego w pliku description.csv.
+# Uwaga: chodzi o połączenie danych z tych dwóch plików/tabel a nie zwykłe dodanie kolumny.
+# Otrzymane dane zapisujemy do pliku out2.csv.

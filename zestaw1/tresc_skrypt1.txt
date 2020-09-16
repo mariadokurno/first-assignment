@@ -1,0 +1,8 @@
+ 1 ) Napisać skrypt, który wczyta dane z pliku train.tsv (jako DataFrame), wyliczy średnią cenę mieszkania (z dokładnością do złotówki) i zapisze tę cenę do pliku out0.csv a następnie
+
+ 2) do tabeli danych doda kolumnę z obliczoną ceną za metr kwadratowy dla danego mieszkania. Następnie zapisze wymienione niżej kolumny dla części ofert do pliku out1.csv: 
+
+ - kolumny: liczba pokoi, cena, cena za metr kwadrartowy  (bez nazw kolumn)
+
+ - wiersze: oferty z liczbą pokoi większą równą 3 i ceną za metr kwadrarowy  niższą niż średnia cena za metr kwadrarowy (liczymy średnią wg dodanej kolumny, tzn. dane z poszczególnych mieszkań są traktowane równo, niezależnie od ich metrażu). 
+
